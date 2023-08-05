@@ -7,7 +7,7 @@ Goto backend and execute : `pip install -r requirements.txt` to install all the 
 Then run ServerMain.py file to start the server
 To execute type : `python ServerMain.py`
 
-Open another terminal and navigate to frontend/
+Open another terminal and navigate to frontend
 
 Run the command : `npm install` to install all the dependencies 
 Then run : `npm start` to start the react application.
